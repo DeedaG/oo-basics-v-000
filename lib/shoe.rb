@@ -21,3 +21,5 @@ attr_reader :brand
   end
 
 end
+
+Shoe.@condition = new
