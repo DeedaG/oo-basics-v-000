@@ -20,6 +20,7 @@ attr_reader :brand
     @condition
   end
 
-end
 
-"new" = Shoe.@condition  
+
+"new" = Shoe.@condition
+end
