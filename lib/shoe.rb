@@ -22,5 +22,5 @@ attr_reader :brand
 
 end
 
-shoe = Shoe.new("new")
+shoe = Shoe.new
 shoe.condition = "new"
