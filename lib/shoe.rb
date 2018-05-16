@@ -12,11 +12,12 @@ attr_reader :brand
     puts "Your shoe is as good as new!"
   end
 
-  def initialize(condition)
+  def condition=(condition)
     @condition = condition
   end
 
   def condition
+    @condition
   end
 
 end
