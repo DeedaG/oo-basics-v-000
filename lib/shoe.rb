@@ -13,7 +13,7 @@ attr_reader :brand
   end
 
   def initialize(condition)
-    @condition = new
+    @condition = condition
   end
 
   def title
