@@ -16,7 +16,7 @@ attr_reader :brand
     @condition = condition
   end
 
-  def title
+  def condition
   end
 
 end
