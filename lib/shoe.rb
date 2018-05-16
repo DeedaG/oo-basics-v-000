@@ -18,7 +18,6 @@ attr_reader :brand
 
   def condition
     @condition
-    condition = new
   end
 
 end
